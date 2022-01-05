@@ -1,0 +1,310 @@
+cause,effect,doc_ind
+fuse or mcb,drycol control unit,1
+fuse or mcb,alarm,1
+fuse or mcb,transformer abnormal,1
+high resistance connection,drycol breather,2
+drycol breather defect,drycol breather,2
+damaged component,drycol control unit,3
+damaged component,transformer abnormal,3
+damaged component,drycol breather,3
+pressure level low,oil level incorrect,4
+pressure level low,transformer abnormal,4
+oil level incorrect,transformer abnormal,4
+mechanical indicator defect,sight glass,5
+mechanical indicator defect,gauge defect,5
+pressure level low,oil level incorrect,6
+oil level incorrect,reflash,6
+pressure level low,supply,6
+damaged component,transformer abnormal,7
+damaged component,reflash,7
+damaged component,drycol breather,7
+power supply,drycol breather,8
+power supply,drycol control unit,8
+drycol breather defect,exchange drycol unit,9
+damaged component,exchange,11
+pressure level low,oil level incorrect,13
+low temperatures,low oil alarm,13
+low temperatures,pressure level low,13
+oil level incorrect,transformer abnormal,14
+pressure level low,alarm,16
+oil level incorrect,alarm,16
+seal integrity,sight glass,19
+seal integrity,gauge defect,19
+seal integrity defect,transformer abnormal,19
+seal integrity defect,reflash,19
+damaged component,exchange drycol breather,22
+drycol breather,exchange drycol breather,
+calibration,sight glass,23
+calibration,gauge defect,23
+low oil level,transformer abnormal,23
+sight glass,low oil level,23
+gauge defect,low oil level,23
+conservator operated,low oil alarm,24
+oil level ,low oil alarm,
+crack,new gaskets fitted,26
+seal deterioration,oil leak,28
+seal deterioration,tighten sight glass,28
+oil leak,tighten sight glass,28
+loose fixing,breathing defect,29
+breathing defect,transformer abnormal,29
+loose fixing,transformer abnormal,29
+breathing defect,drycol breather alarm,30
+damaged component,defrost cycle drycol alarms minutes,31
+pressure level low,add oil,33
+oil leak,add oil,34
+seal deterioration,add oil,34
+high resistance connection,exchange drycol breather,36
+oil level incorrect,setting oil level,38
+high resistance connection,drycol control unit,
+damaged component,exchange drycol freezer unit,42
+drycol breather defect,exchange drycol freezer unit,42
+power supply,transformer abnormal,
+glass dirty,sight glass,46
+glass dirty,gauge defect,46
+glass dirty,cleaning,46
+glass dirty,new gasket,46
+glass dirty,remove sight glass,46
+dessicant abnormal,breather defect,51
+dessicant abnormal,unit faulty,51
+unit faulty,install,51
+unit faulty,new unit,51
+pressure level low,buchholtz alarm,53
+low oil level,buchholtz alarm,53
+power supply,fuse or mcb,56
+pipework defect,buchholz ,59
+pipework defect, braided hose copper pipe,59
+damaged component,sight glass,63
+damaged component,gauge defect,63
+damaged component,drain,63
+glass dirty,bucholz ,66
+buchholz,new bucholz,67
+corrosion,tank defect,69
+pipework defect,exchange bucholz bleed pipe,70
+buchholz,exchange bucholz bleed pipe,70
+glass dirty,clean,71
+glass dirty,exchange gauge glass,71
+gauge defect,exchange gauge glass,71
+sight glass,exchange gauge glass,71
+pipework defect,oil leak,74
+oil leak,buchholz ,74
+buchholz,repair,74
+oil leak,tighten valve,75
+oil leak,valve,75
+gauge defect,exchange gauge,76
+loose fixing,repair connection,
+loose fixing,check connection,
+pcb,drycol control unit defect,84
+component failure,drycol control unit defect,84
+component failure,transformer abnormal,84
+pcb,transformer abnormal,84
+oil leak cooler bank,tighten valve,90
+float chamber mechanism defect,buchholz relay failed,91
+buchholz relay failed,exchange buchholz relay,91
+loose fixing,unit trip,
+drycol breather defect,remove drycol control box,
+drycol breather defect,exchange unit,
+drycol breather,control cabinet,
+drycol breather defect,exchange drycol breather,96
+fault,investigate,96
+gasket,buchholz device defect,
+seal defect,buchholz device defect,
+oil leak,tighten sight glass,
+gasket,oil leak relay site glss gas gasket,
+seal defect,oil leak relay site glss gas gasket,
+gasket,tighten sight glass screw,
+seal defect,tighten sight glass screw,
+supply abnormal,relay operation,
+sight glass stained,remove,98
+sight glass stained,clean sight glass,98
+sight glass stained,sight glass,98
+sight glass stained,gauge defect,98
+drycol breather defect,exchange drycol breather cabinet,99
+drycol breather defect,control box,99
+ir,transformer abnormal,100
+ir,drycol breather,100
+ir,alarm,100
+power supply,supply failed,
+power supply,unit faulty,
+float chamber mechanism defect,buchholz device defect,
+oil leak,low oil level,103
+calibration,reset investigate,
+breather blocked,drycol breather,
+drycol breather,exchange freezer unit,
+breather blocked,exchange freezer unit,
+pressure level low,out of service,109
+oil level incorrect,out of service,109
+damaged component,exchange drycol breather,
+drycol breather defect,exchange drycol breather,
+pressure level low,hot standby scheme,
+oil level incorrect,hot standby scheme,
+cabel oil pressure low,oil level incorrect,115
+pressure level low,buchholz alarm,
+oil level incorrect,buchholz alarm,
+relay timer faulty,fit,
+relay timer faulty,test,
+damaged component,relay timer faulty,
+drycol breather defect,relay timer faulty,
+alarm not wired through,drycol breather defect,
+false alarm,outage,
+mechanical indicator defect,false alarm,
+sight glass,false alarm,
+gauge defect,false alarm,
+damaged component,order drycol controller,
+drycol breather defect,order drycol controller,
+mechanical indicator defect,transformer abnormal,
+sight glass,manufacture,126
+sight glass,fit gauge glass,126
+gauge defect,manufacture,126
+gauge defect,fit gauge glass,126
+damaged component,drycol supply failed,
+drycol breather defect,drycol supply failed,
+pressure level low,buchholz gas ,
+oil level incorrect,buchholz gas,
+incorrect air purge,buchholz trip,
+oil leak,buchholz gas alarm,
+pressure level low,high oil level,134
+oil leak,rectify outage,137
+pressure level low,rectify outage,137
+seal deterioration,buchholz alarm,
+high resistance connection,exchange drycol,143
+drycol breather defect,exchange drycol,143
+damaged component,drycol faulty power cycled,
+drycol faulty power cycled,reset,
+power supply,outage,146
+drycol control unit defect,exchange drycol breather,
+high resistance connection,investigate,
+drycol breather,investigate,
+mechanical indicator,contact fault,
+ferrule,buchholz alarm,
+ferrule,buchholz device defect,
+crimp defect,buchholz device defect,
+crimp defect,buchholz alarm,
+pressure level low,buchholz gas alarm,
+oil level incorrect,buchholz gas alarm,
+drycol breather not fit,refit,151
+damaged component,investigate rmhz,
+drycol breather defect,investigate rmhz,
+drycol breather defect,exchange drycol,
+mercury switch defective,buchholz defect,
+mercury switch defective,test relay,
+buchholz defect,exchange,
+pressure level low,add oil tank,
+oil level incorrect,add oil tank,
+oil level,calibration,
+low oil level,investigate,
+seal integrity,low oil tank,
+sight glass,low oil tank,
+gauge defect,low oil tank,
+gasket,exchange terminal box cover,168
+seal defect,exchange terminal box cover,
+pressure level low,reset,
+oil level incorrect,reset,
+pressure level low,transducer faulty,
+oil level incorrect,transducer faulty,
+mechanical indicator defect,renew switch,174
+high daytime temperatures,drycol breather defect,
+high humidity,drycol breather defect,
+drycol breather,alarm,
+high daytime temperatures,alarm,
+high humidity,alarm,
+power supply,supply faulty,
+defrost cycle contact defect,drycol control unit defect,184
+time delay relay,drycol control unit defect,
+time delay relay,investigate,
+oil level,low temperature,
+low temperature,buchholz alarm,
+oil level,buchholz alarm,
+low defrost amperes,drycol control unit defect,193
+alarm operation out of tolerance,buchholz operation defect,
+alarm operation out of tolerance,fleeting buchholz alarm,
+alarm operation out of tolerance,check oil level ,
+damaged component,breather drycol supply fail,200
+drycol breather defect,breather drycol supply fail,200
+transformer soil level low,oil level incorrect,211
+magnet,buchholz,217
+reed switch defective,buchholz,217
+buchholz device defect,exchange buchholz unit,217
+freeze cycle contact defect,drycol control unit defect,221
+freeze cycle contact defect,transformer abnormal,221
+damaged component,exchange component,228
+corrosion,pipework defect,229
+errosion,pipework defect,229
+pipework defect,buchholz alarm,229
+damaged component,repair,
+drycol control unit defect,repair,
+drycol control unit defect,reset,
+damaged component,reset,
+hairline cracks in glass,sight glass,
+hairline cracks in glass,gauge defect,
+hairline cracks in glass,exchange,
+dessicant abnormal,exchange desicant,236
+dessicant abnormal,refill,236
+dessicant abnormal,order new cartridge,236
+drycol breather defect,investigating drycol unit,239
+drycol breather defect,exchange desicant,
+gasket,supply defect,240
+seal defect,supply defect,
+gasket,bucholz leak,241
+seal defect,bucholz leak,241
+bucholz leak,tighten sight glass,241
+gasket,tighten sight glass,241
+seal defect,tighten sight glass,241
+cracked sight glass,sight glass,242
+cracked sight glass,gauge defect,242
+cracked sight glass,install sight glass,242
+sight glass,install sight glass,242
+drycol control unit defect,drycol breather,
+power supply,drycol control unit defect,
+breather defect,exchange drycol unit,
+power supply,breather alarm,
+drycol control unit defect,breather alarm,
+power supply,drycol breather failed,
+pressure level low,buchholz alarm,257
+oil level incorrect,buchholtz alarm,257
+damaged component,supply failed,258
+ir,drycol breather defect,
+drycol breather defect,exchange drycol,
+drycol breather defect,test,
+damaged component,drycol control box unit failed,265
+drycol breather defect,verify operational control box,
+seal integrity,tank breather bag defect,
+damaged component,low oil level,
+loose fixing,auto recharge control defect,273
+auto recharge control defect,transformer abnormal,273
+power supply,breather defect,
+pressure level low,exchange oil,
+oil level incorrect,exchange oil,
+drycol breather defect,alarm,
+bag puncture,tank breather bag defect,
+tank defect,transformer abnormal,
+gasket,tank breather rubber bag failed,291
+seal defect,tank breather rubber bag failed,291
+breather defect,fit control box,
+pressure level low,low oil alarm,
+oil level incorrect,low oil alarm,
+alarm operation,buchholz operation defective,
+loose fixing,low oil level,299
+auxiliary contact,drycol control unit defect,303
+relay defect,drycol control unit defect,303
+auxiliary contact,transformer abnormal,303
+relay defect,transformer abnormal,303
+terminal cover screws,buchholz ,
+plate,buchholz,
+power supply,transformer abnormal,
+indication lamp defect,drycol control unit defect,
+gauge defect,investigate gauge contact,
+buchholz,exchange,
+drycol control unit defect,transformer abnormal,
+high resistance connection,transformer abnormal,
+calibration,transformer abnormal,
+erosion,tank defect,
+damaged component,exchanage drycol breather,
+buchholz operation defective,fleeting buchholz alarm,
+defrost cycle contact defect,drycol breather supply faulty,
+defrost cycle contact defect,drycol control unit defect,
+power supply,breather drycol supply failed,
+drycol control unit defect,breather drycol supply failed,
+drycol control unit defect,drycol breather faulty,
+fuse or mcb,drycol control unit defect,
+sight glass,transformer abnormal,
+gauge defect,transformer abnormal,

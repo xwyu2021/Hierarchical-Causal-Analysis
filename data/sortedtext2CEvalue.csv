@@ -1,0 +1,1017 @@
+,X1,cause,effect,doc_ind,sentence_ind
+1,0,fuse or mcb,transformer abnormal or reflash,1,1
+2,1,fuse or mcb,transformer abnormal or reflash,1,1
+3,2,drycol control unit defect,transformer abnormal or reflash,1,1
+4,3,high resistance connection,drycol breather,2,1
+5,4,drycol breather,drycol breather,2,1
+6,5,damaged component,transformer abnormal or reflash,3,1
+7,6,drycol control unit defect,transformer abnormal or reflash,3,1
+8,7,oil level low,transformer abnormal or reflash,4,1
+9,8,oil level incorrect,transformer abnormal or reflash,4,1
+10,9,mechanical indicator defect,transformer abnormal or reflash,5,1
+11,10,sight glass,transformer abnormal or reflash,5,1
+12,11,gauge defect,transformer abnormal or reflash,5,1
+13,12,oil level low,transformer other,6,1
+14,13,oil level low,transformer abnormal or reflash,6,1
+15,14,oil level incorrect,transformer other,6,1
+16,15,oil level incorrect,transformer abnormal or reflash,6,1
+17,16,damaged component,transformer abnormal or reflash,7,1
+18,17,damaged component,transformer abnormal or reflash,7,1
+19,20,power supply,drycol breather,8,1
+20,21,power supply,drycol breather,8,1
+21,22,drycol control unit defect,drycol breather,8,1
+22,23,high resistance connection,exchange drycol unit,9,1
+23,24,drycol breather,exchange drycol unit,9,1
+24,25,high resistance connection,exchange,10,1
+25,26,drycol breather,exchange,10,1
+26,27,damaged component,exchange,11,1
+27,28,drycol breather,exchange,11,1
+28,29,damaged component,order,12,1
+29,30,drycol breather,order,12,1
+30,31,transformer abnormal or reflash,order,12,1
+31,32,drycol breather,order,12,1
+32,33,transformer abnormal or reflash,drycol breather,12,1
+33,34,transformer abnormal or reflash,order,12,1
+34,35,damaged component,transformer abnormal or reflash,12,1
+35,36,damaged component,drycol breather,12,1
+36,37,damaged component,order,12,1
+37,38,drycol breather,transformer abnormal or reflash,12,1
+38,39,drycol breather,drycol breather,12,1
+39,40,drycol breather,order,12,1
+40,41,low temperatures,low oil alarm,13,1
+41,42,oil level low,low temperatures,13,1
+42,43,oil level low,low oil alarm,13,1
+43,44,oil level incorrect,low temperatures,13,1
+44,45,oil level incorrect,low oil alarm,13,1
+45,46,transformer abnormal or reflash,oil level low,14,1
+46,47,transformer abnormal or reflash,oil level low,14,1
+47,49,oil level low,transformer abnormal or reflash,14,1
+48,50,oil level low,oil level low,14,1
+49,51,oil level incorrect,oil level low,14,1
+50,52,oil level incorrect,transformer abnormal or reflash,14,1
+51,53,oil level incorrect,oil level low,14,1
+52,55,oil level low,oil level incorrect,15,1
+53,56,oil level low,transformer abnormal or reflash,16,1
+54,57,oil level low,alarm,16,1
+55,58,oil level incorrect,transformer abnormal or reflash,16,1
+56,59,oil level incorrect,alarm,16,1
+57,60,oil level low,transformer abnormal or reflash,17,1
+58,61,oil level incorrect,transformer abnormal or reflash,17,1
+59,62,oil level low,transformer abnormal or reflash,18,1
+60,63,oil level incorrect,transformer abnormal or reflash,18,1
+61,64,seal integrity defect,transformer abnormal or reflash,19,1
+62,65,seal integrity defect,transformer abnormal or reflash,19,1
+63,66,sight glass,transformer abnormal or reflash,19,1
+64,67,sight glass,transformer abnormal or reflash,19,1
+65,68,gauge defect,transformer abnormal or reflash,19,1
+66,69,gauge defect,transformer abnormal or reflash,19,1
+67,70,high resistance connection,transformer abnormal or reflash,20,1
+68,71,drycol breather,transformer abnormal or reflash,20,1
+69,72,high resistance connection,drycol breather,21,1
+70,73,damaged component,exchange drycol breather,22,1
+71,74,drycol breather,exchange drycol breather,22,1
+72,75,calibration,transformer abnormal or reflash,23,1
+73,76,calibration,oil level low,23,1
+74,77,sight glass,transformer abnormal or reflash,23,1
+75,78,sight glass,oil level low,23,1
+76,79,gauge defect,transformer abnormal or reflash,23,1
+77,80,gauge defect,oil level low,23,1
+78,82,oil level low,oil level incorrect,24,1
+79,83,conservator operated,low oil alarm,24,2
+80,84,oil level low,low oil alarm,24,2
+81,85,low oil alarm,oil level incorrect,24,2
+82,86,conservator operated,oil level incorrect,24,2
+83,88,seal integrity defect,sight glass,25,2
+84,89,seal integrity defect,gauge defect,25,2
+85,90,crack,new gaskets fitted,26,1
+86,91,seal integrity defect,crack,26,1
+87,92,seal integrity defect,new gaskets fitted,26,1
+88,93,sight glass,crack,26,1
+89,94,sight glass,new gaskets fitted,26,1
+90,95,gauge defect,crack,26,1
+91,96,gauge defect,new gaskets fitted,26,1
+92,97,damaged component,transformer abnormal or reflash,27,1
+93,98,damaged component,transformer abnormal or reflash,27,1
+94,99,drycol breather,transformer abnormal or reflash,27,1
+95,100,drycol breather,transformer abnormal or reflash,27,1
+96,101,rectify oil leak sight glass,tighten sight glass,28,1
+97,102,seal deterioration,rectify oil leak sight glass,28,1
+98,103,seal deterioration,tighten sight glass,28,1
+99,104,oil leak,rectify oil leak sight glass,28,1
+100,105,oil leak,tighten sight glass,28,1
+101,106,loose fixing,transformer abnormal or reflash,29,1
+102,107,drycol breather,transformer abnormal or reflash,29,1
+103,108,damaged component,drycol alarm,30,1
+104,110,transformer abnormal or reflash,drycol alarm,31,1
+105,111,transformer abnormal or reflash,drycol alarm,31,1
+106,112,oil level low,tank defect,32,1
+107,113,oil level low,defrost defect,32,1
+108,114,oil level low,identification report,32,1
+109,115,oil level incorrect,tank defect,32,1
+110,116,oil level incorrect,defrost defect,32,1
+111,117,oil level incorrect,identification report,32,1
+112,119,oil level low,add oil,33,1
+113,120,oil level incorrect,oil level low,33,1
+114,121,oil level incorrect,add oil,33,1
+115,122,seal deterioration,oil leak,34,1
+116,123,seal deterioration,add oil,34,1
+117,124,seal deterioration,add oil,34,1
+118,125,oil leak,add oil,34,1
+119,126,seal deterioration,oil leak,35,1
+120,127,seal deterioration,add oil,35,1
+121,128,seal deterioration,add oil,35,1
+122,129,oil leak,add oil,35,1
+123,130,high resistance connection,exchange drycol breather,36,1
+124,131,drycol breather,exchange drycol breather,36,1
+125,132,damaged component,transformer abnormal or reflash,37,1
+126,133,drycol control unit defect,transformer abnormal or reflash,37,1
+127,135,oil level low,set oil level,38,1
+128,136,oil level incorrect,oil level low,38,1
+129,137,oil level incorrect,set oil level,38,1
+130,138,oil level low,oil supply,39,1
+131,139,oil level incorrect,oil supply,39,1
+132,141,oil level low,oil level incorrect,39,1
+133,142,oil level low,oil supply,39,1
+134,143,oil level incorrect,oil level low,39,1
+135,145,oil level incorrect,oil supply,39,1
+136,146,high resistance connection,transformer abnormal or reflash,40,1
+137,147,drycol control unit defect,transformer abnormal or reflash,40,1
+138,148,damaged component,exchange drycol freezer unit,41,1
+139,149,drycol breather,exchange drycol freezer unit,41,1
+140,150,damaged component,exchange drycol freezer unit,42,1
+141,152,power supply,transformer abnormal or reflash,43,1
+142,153,power supply,transformer abnormal or reflash,43,1
+143,154,drycol control unit defect,transformer abnormal or reflash,43,1
+144,155,power supply,transformer abnormal or reflash,44,1
+145,156,power supply,transformer abnormal or reflash,44,1
+146,157,drycol control unit defect,transformer abnormal or reflash,44,1
+147,158,oil level low,add oil,45,1
+148,159,oil level low,add oil,45,1
+149,161,oil level low,oil level low,45,1
+150,162,oil level low,add oil,45,1
+151,163,oil level incorrect,oil level low,45,1
+152,164,oil level incorrect,oil level low,45,1
+153,165,oil level incorrect,add oil,45,1
+154,166,glass dirty,empty oil tank,46,1
+155,167,oil level low,empty oil tank,46,1
+156,168,sight glass,empty oil tank,46,1
+157,169,gauge defect,empty oil tank,46,1
+158,171,oil level low,oil level incorrect,47,1
+159,172,oil level low,add oil,47,1
+160,173,oil level low,add oil,47,1
+161,174,oil level incorrect,add oil,47,1
+162,175,damaged component,exchange drycol breather,48,1
+163,176,drycol breather,exchange drycol breather,48,1
+164,178,oil level low,oil level incorrect,49,1
+165,179,oil level low,add oil,49,1
+166,180,oil level low,clear alarm,49,1
+167,181,oil level low,add oil,49,1
+168,182,oil level low,clear alarm,49,1
+169,183,oil level incorrect,add oil,49,1
+170,184,oil level incorrect,clear alarm,49,1
+171,185,mechanical indicator defect,transformer abnormal or reflash,50,1
+172,186,sight glass,transformer abnormal or reflash,50,1
+173,187,gauge defect,transformer abnormal or reflash,50,1
+174,188,dessicant abnormal,new unit,51,1
+175,189,dessicant abnormal,install,51,1
+176,192,drycol control unit defect,new unit,51,1
+177,193,drycol control unit defect,install,51,1
+178,194,dessicant abnormal,drycol control unit defect,51,1
+179,195,dessicant abnormal,new unit,51,1
+180,196,dessicant abnormal,install,51,1
+181,200,high resistance connection,investigate,52,1
+182,201,drycol breather,investigate,52,1
+183,203,oil level low,oil level incorrect,53,1
+184,204,oil remove maintenance,buchholz alarm,53,2
+185,205,oil remove maintenance,oil level low,53,2
+186,206,oil level low,buchholz alarm,53,2
+187,207,oil remove maintenance,buchholz alarm,53,2
+188,208,damaged component,transformer abnormal or reflash,54,1
+189,210,power supply,drycol breather,55,1
+190,211,power supply,drycol breather,55,1
+191,212,drycol control unit defect,drycol breather,55,1
+192,213,power supply,fuse or mcb,56,1
+193,214,high resistance connection,exchange drycol breather,57,1
+194,215,drycol breather,exchange drycol breather,57,1
+195,216,high resistance connection,transformer abnormal or reflash,58,1
+196,217,drycol breather,transformer abnormal or reflash,58,1
+197,218,pipework defect,braided hose copper pipe,59,1
+198,219,buchholz,braided hose copper pipe,59,1
+199,221,oil level low,oil level incorrect,60,1
+200,222,oil level low,add oil,60,1
+201,223,oil level low,add oil,60,1
+202,224,oil level incorrect,add oil,60,1
+203,226,oil level low,oil level incorrect,61,1
+204,227,oil level low,add oil,61,1
+205,228,oil level low,add oil,61,1
+206,229,oil level incorrect,add oil,61,1
+207,230,high resistance connection,drycol breather,62,1
+208,231,high resistance connection,exchange drycol breather,62,1
+209,232,high resistance connection,exchange drycol breather,62,1
+210,233,drycol breather,exchange drycol breather,62,1
+211,234,damaged component,sight glass,63,1
+212,235,damaged component,gauge defect,63,1
+213,236,damaged component,drain,63,1
+214,237,damaged component,drain,63,1
+215,238,sight glass,drain,63,1
+216,239,gauge defect,drain,63,1
+217,240,seal deterioration,add oil,64,1
+218,241,oil leak,add oil,64,1
+219,242,oil level low,add oil,65,1
+220,243,oil level incorrect,add oil,65,1
+221,244,oil level low,add oil,66,1
+222,245,oil level incorrect,add oil,66,1
+223,246,glass dirty,buchholz,67,1
+224,247,glass dirty,new buchholz,67,1
+225,248,oil level low,buchholz,67,1
+226,249,oil level low,new buchholz,67,1
+227,250,glass dirty,new buchholz,67,1
+228,251,oil level low,new buchholz,67,1
+229,252,buchholz,new buchholz,67,1
+230,253,pipework defect,buchholz,68,1
+231,254,corrosion,tank defect,69,1
+232,255,corrosion,tank defect,69,1
+233,256,corrosion,tank defect,69,1
+234,257,pipework defect,buchholz,70,1
+235,258,pipework defect,exchange buchholz bleed pipe,70,1
+236,259,pipework defect,exchange buchholz bleed pipe,70,1
+237,260,buchholz,exchange buchholz bleed pipe,70,1
+238,261,glass dirty,clean,71,1
+239,262,glass dirty,exchange gauge glass,71,1
+240,263,oil level low,clean,71,1
+241,264,oil level low,exchange gauge glass,71,1
+242,265,sight glass,clean,71,1
+243,266,sight glass,exchange gauge glass,71,1
+244,267,gauge defect,clean,71,1
+245,268,gauge defect,exchange gauge glass,71,1
+246,269,glass dirty,clean,72,1
+247,270,glass dirty,exchange gauge glass,72,1
+248,271,oil level low,clean,72,1
+249,272,oil level low,exchange gauge glass,72,1
+250,273,sight glass,clean,72,1
+251,274,sight glass,exchange gauge glass,72,1
+252,275,gauge defect,clean,72,1
+253,276,gauge defect,exchange gauge glass,72,1
+254,277,glass dirty,clean,73,1
+255,278,glass dirty,exchange gauge glass,73,1
+256,279,oil level low,clean,73,1
+257,280,oil level low,exchange gauge glass,73,1
+258,281,sight glass,clean,73,1
+259,282,sight glass,exchange gauge glass,73,1
+260,283,gauge defect,clean,73,1
+261,284,gauge defect,exchange gauge glass,73,1
+262,285,pipework defect,repair,74,1
+263,286,oil leak,repair,74,1
+264,287,oil leak,tighten valve,75,1
+265,288,seal deterioration,oil leak,75,1
+266,289,seal deterioration,tighten valve,75,1
+267,291,oil leak,tighten valve,75,1
+268,292,glass dirty,exchange gauge,76,1
+269,293,oil level low,exchange gauge,76,1
+270,294,sight glass,exchange gauge,76,1
+271,295,gauge defect,exchange gauge,76,1
+272,296,glass dirty,exchange gauge,77,1
+273,297,oil level low,exchange gauge,77,1
+274,298,sight glass,exchange gauge,77,1
+275,299,gauge defect,exchange gauge,77,1
+276,300,loose fixing,drycol breather,78,1
+277,301,loose fixing,repair connection,78,1
+278,302,loose fixing,repair connection,78,1
+279,303,drycol breather,repair connection,78,1
+280,304,loose fixing,check connection,79,1
+281,305,drycol breather,check connection,79,1
+282,306,loose fixing,investigate fault timers,80,1
+283,307,drycol breather,investigate fault timers,80,1
+284,308,damaged component,transformer abnormal or reflash,81,1
+285,310,power supply,transformer abnormal or reflash,82,1
+286,311,power supply,transformer abnormal or reflash,82,1
+287,312,drycol control unit defect,transformer abnormal or reflash,82,1
+288,313,power supply,transformer abnormal or reflash,83,1
+289,314,power supply,transformer abnormal or reflash,83,1
+290,315,drycol control unit defect,transformer abnormal or reflash,83,1
+291,316,pcb,transformer abnormal or reflash,84,1
+292,317,component failure,transformer abnormal or reflash,84,1
+293,318,drycol control unit defect,transformer abnormal or reflash,84,1
+294,320,oil level low,oil level incorrect,85,1
+295,321,oil level low,transformer abnormal or reflash,86,1
+296,322,oil level incorrect,transformer abnormal or reflash,86,1
+297,323,oil level low,transformer abnormal or reflash,87,1
+298,324,oil level incorrect,transformer abnormal or reflash,87,1
+299,325,oil level low,transformer abnormal or reflash,88,1
+300,326,oil level low,transformer abnormal or reflash,88,1
+301,327,oil level incorrect,transformer abnormal or reflash,88,1
+302,328,oil level incorrect,transformer abnormal or reflash,88,1
+303,330,damaged component,oil leak,90,1
+304,331,damaged component,tighten valve,90,1
+305,332,damaged component,tighten valve,90,1
+306,333,oil leak,tighten valve,90,1
+307,334,float chamber mechanism defect,exchange buchholz relay,91,1
+308,335,relay defect,exchange buchholz relay,91,1
+309,336,buchholz trip,exchange buchholz relay,91,1
+310,337,damaged component,transformer abnormal or reflash,92,1
+311,338,drycol breather,transformer abnormal or reflash,92,1
+312,339,loose fixing,buchholz trip,93,1
+313,340,damaged component,remove drycol control box,94,1
+314,341,damaged component,exchange unit,94,1
+315,344,exchange drycol,investigate,95,1
+316,345,control box,investigate,95,1
+317,346,drycol control unit defect,investigate,95,1
+318,347,damaged component,exchanage drycol breather,95,1
+319,348,damaged component,control box,95,1
+320,349,damaged component,drycol control unit defect,95,1
+321,350,damaged component,investigate,95,1
+322,351,drycol breather,exchange drycol breather,95,1
+323,352,drycol breather,control box,95,1
+324,353,drycol breather,drycol control unit defect,95,1
+325,354,drycol breather,investigate,95,1
+326,355,gasket,tighten sight glass,96,1
+327,356,oil leak,tighten sight glass,96,1
+328,358,gasket,oil leak,96,1
+329,359,gasket,tighten sight glass,96,1
+330,360,seal integrity defect,gasket,96,1
+331,361,seal integrity defect,oil leak,96,1
+332,362,seal integrity defect,tighten sight glass,96,1
+333,363,buchholz,gasket,96,1
+334,364,buchholz,oil leak,96,1
+335,365,buchholz,tighten sight glass,96,1
+336,366,power supply,transformer other,97,1
+337,367,relay defect,transformer other,97,1
+338,368,glass dirty,sight glass,98,1
+339,369,glass dirty,remove,98,1
+340,370,glass dirty,clean sight glass,98,1
+341,372,sight glass,remove,98,1
+342,373,sight glass,clean sight glass,98,1
+343,374,gauge defect,sight glass,98,1
+344,375,gauge defect,remove,98,1
+345,376,gauge defect,clean sight glass,98,1
+346,377,damaged component,exchange drycol breather,99,1
+347,378,damaged component,control box,99,1
+348,379,drycol breather,exchange drycol breather,99,1
+349,380,drycol breather,control box,99,1
+350,381,ir,transformer abnormal or reflash,100,1
+351,382,ir,alarm,100,1
+352,383,power supply,transformer other,101,1
+353,384,power supply,drycol control unit defect,101,1
+354,385,power supply,transformer other,101,1
+355,386,power supply,drycol control unit defect,101,1
+356,387,float chamber mechanism defect,exchange,102,1
+357,388,buchholz,exchange,102,1
+358,389,oil leak,oil level low,103,1
+359,390,seal deterioration,oil level low,103,1
+360,391,seal deterioration,oil leak,103,1
+361,392,oil leak,oil level low,103,1
+362,394,power supply,transformer abnormal or reflash,104,1
+363,395,power supply,transformer abnormal or reflash,104,1
+364,396,power supply,transformer abnormal or reflash,104,1
+365,397,oil level low,transformer abnormal or reflash,105,1
+366,398,oil level low,transformer abnormal or reflash,105,1
+367,399,oil level incorrect,transformer abnormal or reflash,105,1
+368,400,oil level incorrect,transformer abnormal or reflash,105,1
+369,401,calibration,sight glass,106,1
+370,402,calibration,reset investigate,106,1
+371,403,calibration,reset investigate,106,1
+372,404,sight glass,reset investigate,106,1
+373,405,breather blocked,breather blocked,107,1
+374,406,breather blocked,exchange drycol freezer unit,107,1
+375,407,breather blocked,exchange drycol freezer unit,107,1
+376,408,breather blocked,exchange drycol freezer unit,107,1
+377,409,damaged component,transformer abnormal or reflash,108,1
+378,411,oil level low,add oil,109,1
+379,412,oil level incorrect,add oil,109,1
+380,413,out of service,add oil,109,1
+381,414,oil level low,add oil,110,1
+382,415,oil level incorrect,add oil,110,1
+383,416,damaged component,exchange drycol breather,111,1
+384,417,damaged component,red spot type,111,1
+385,418,drycol breather,exchange drycol breather,111,1
+386,419,drycol breather,red spot type,111,1
+387,420,pcb,transformer abnormal or reflash,112,1
+388,421,component failure,transformer abnormal or reflash,112,1
+389,422,drycol control unit defect,transformer abnormal or reflash,112,1
+390,423,high resistance connection,drycol breather,113,1
+391,424,oil level low,transformer other,114,1
+392,425,oil level incorrect,transformer other,114,1
+393,426,oil level low,oil level incorrect,115,1
+394,428,oil level low,buchholz alarm,117,1
+395,429,oil level incorrect,buchholz alarm,117,1
+396,430,oil level low,add oil,118,1
+397,431,oil level incorrect,add oil,118,1
+398,432,relay defect,fit,119,1
+399,433,relay defect,test,119,1
+400,434,damaged component,relay defect,119,1
+401,435,damaged component,fit,119,1
+402,436,damaged component,test,119,1
+403,437,drycol breather,relay defect,119,1
+404,438,drycol breather,fit,119,1
+405,439,drycol breather,test,119,1
+406,440,oil level low,add oil,120,1
+407,441,oil level incorrect,add oil,120,1
+408,442,alarm,alarm,121,1
+409,443,high resistance connection,exchange drycol freezer unit,122,1
+410,444,drycol breather,exchange drycol freezer unit,122,1
+411,445,alarm,outage,123,1
+412,446,mechanical indicator defect,alarm,123,1
+413,447,mechanical indicator defect,outage,123,1
+414,448,sight glass,alarm,123,1
+415,449,sight glass,outage,123,1
+416,450,gauge defect,alarm,123,1
+417,451,gauge defect,outage,123,1
+418,452,damaged component,drycol breather,124,1
+419,453,damaged component,order drycol control,124,1
+420,454,damaged component,order drycol control,124,1
+421,455,drycol breather,order drycol control,124,1
+422,456,mechanical indicator defect,transformer abnormal or reflash,125,1
+423,457,sight glass,transformer abnormal or reflash,125,1
+424,458,gauge defect,transformer abnormal or reflash,125,1
+425,459,damaged component,manufacture,126,1
+426,460,damaged component,fit gauge glass,126,1
+427,461,sight glass,manufacture,126,1
+428,462,sight glass,fit gauge glass,126,1
+429,463,gauge defect,manufacture,126,1
+430,464,gauge defect,fit gauge glass,126,1
+431,465,damaged component,drycol breather,127,1
+432,466,drycol breather,drycol breather,127,1
+433,468,oil level low,oil level incorrect,128,1
+434,469,oil level low,add oil,128,1
+435,470,oil level low,add oil,128,1
+436,471,oil level incorrect,add oil,128,1
+437,472,oil level low,buchholz,129,1
+438,473,oil level incorrect,buchholz,129,1
+439,474,incorrect air purge,buchholz trip,130,1
+440,475,seal deterioration,buchholz alarm,131,1
+441,476,oil leak,buchholz alarm,131,1
+442,477,out of service,add oil,132,1
+443,478,out of service,add oil,132,1
+444,479,maintenance,add oil,132,1
+445,480,oil level low,out of service,132,1
+446,481,oil level low,out of service,132,1
+447,482,oil level low,maintenance,132,1
+448,483,oil level low,add oil,132,1
+449,484,oil level incorrect,out of service,132,1
+450,485,oil level incorrect,out of service,132,1
+451,486,oil level incorrect,maintenance,132,1
+452,487,oil level incorrect,add oil,132,1
+453,488,oil level low,transformer abnormal or reflash,133,1
+454,489,oil level incorrect,transformer abnormal or reflash,133,1
+455,491,oil level low,tank defect,134,1
+456,492,oil level low,alarm,135,1
+457,493,oil level incorrect,alarm,135,1
+458,494,oil level low,add oil,136,1
+459,495,oil level incorrect,add oil,136,1
+460,496,oil leak,rectify outage,137,1
+461,497,oil level low,oil leak,137,1
+462,498,oil level low,rectify outage,137,1
+463,499,oil level incorrect,oil leak,137,1
+464,500,oil level incorrect,rectify outage,137,1
+465,501,seal deterioration,buchholz alarm,138,1
+466,502,oil leak,buchholz alarm,138,1
+467,504,oil level low,oil level incorrect,139,1
+468,506,oil level low,oil level incorrect,140,1
+469,508,oil level low,oil level incorrect,141,1
+470,510,oil level low,oil level incorrect,142,1
+471,511,oil level low,add oil,142,1
+472,512,oil level low,add oil,142,1
+473,513,oil level incorrect,add oil,142,1
+474,514,high resistance connection,drycol breather,143,1
+475,515,high resistance connection,exchange drycol,143,1
+476,516,high resistance connection,drycol control unit defect,143,1
+477,517,high resistance connection,exchange drycol,143,1
+478,518,high resistance connection,drycol control unit defect,143,1
+479,519,drycol breather,exchange drycol,143,1
+480,520,drycol breather,drycol control unit defect,143,1
+481,522,oil level low,oil level incorrect,144,1
+482,523,oil level low,add oil,144,1
+483,524,oil level low,add oil,144,1
+484,525,oil level incorrect,add oil,144,1
+485,526,drycol breather,reset,145,1
+486,527,damaged component,drycol breather,145,1
+487,528,damaged component,reset,145,1
+488,529,drycol breather,drycol breather,145,1
+489,530,drycol breather,reset,145,1
+490,532,power supply,outage,146,1
+491,533,power supply,exchange drycol breather,146,1
+492,535,power supply,outage,146,1
+493,536,power supply,exchange drycol breather,146,1
+494,537,drycol control unit defect,power supply,146,1
+495,538,drycol control unit defect,outage,146,1
+496,539,drycol control unit defect,exchange drycol breather,146,1
+497,540,high resistance connection,drycol breather,147,1
+498,541,high resistance connection,investigate,147,1
+499,542,high resistance connection,investigate,147,1
+500,543,drycol breather,investigate,147,1
+501,544,damaged component,transformer abnormal or reflash,148,1
+502,545,drycol breather,transformer abnormal or reflash,148,1
+503,546,mechanical indicator defect,sight glass,149,1
+504,547,mechanical indicator defect,gauge defect,149,1
+505,548,mechanical indicator defect,contact fault,149,2
+506,549,damaged component,transformer abnormal or reflash,150,1
+507,550,drycol breather,transformer abnormal or reflash,150,1
+508,551,buchholz alarm,rectify,151,1
+509,552,buchholz alarm,alarm,151,1
+510,553,ferrule,buchholz alarm,151,1
+511,554,ferrule,rectify,151,1
+512,555,ferrule,alarm,151,1
+513,556,crimp defect,buchholz alarm,151,1
+514,557,crimp defect,rectify,151,1
+515,558,crimp defect,alarm,151,1
+516,559,buchholz,buchholz alarm,151,1
+517,560,buchholz,rectify,151,1
+518,561,buchholz,alarm,151,1
+519,562,oil level low,buchholz alarm,152,1
+520,563,oil level incorrect,buchholz alarm,152,1
+521,564,damaged component,drycol control unit defect,153,1
+522,565,damaged component,fit storage container,153,1
+523,566,drycol control unit defect,drycol control unit defect,153,1
+524,567,drycol control unit defect,fit storage container,153,1
+525,568,damaged component,drycol control unit defect,154,1
+526,569,drycol control unit defect,drycol control unit defect,154,1
+527,571,damaged component,drycol breather,155,1
+528,572,damaged component,investigate rmhz,155,1
+529,573,damaged component,investigate rmhz,155,1
+530,574,drycol breather,investigate rmhz,155,1
+531,575,investigate fault drycol,exchange drycol,156,1
+532,576,damaged component,investigate fault drycol,156,1
+533,577,damaged component,exchange drycol,156,1
+534,578,drycol breather,investigate fault drycol,156,1
+535,579,drycol breather,exchange drycol,156,1
+536,580,damaged component,transformer abnormal or reflash,157,1
+537,581,drycol breather,transformer abnormal or reflash,157,1
+538,582,mercury switch defective,exchange,158,1
+539,583,mercury switch defective,test relay,158,1
+540,584,buchholz,exchange,158,1
+541,585,buchholz,test relay,158,1
+542,587,oil level low,oil level incorrect,159,1
+543,588,oil level low,add oil tank,159,1
+544,589,oil level low,add oil tank,159,1
+545,590,oil level incorrect,add oil tank,159,1
+546,591,damaged component,exchange drycol unit,160,1
+547,592,drycol breather,exchange drycol unit,160,1
+548,593,damaged component,exchange drycol unit,161,1
+549,594,drycol control unit defect,exchange drycol unit,161,1
+550,596,oil level low,check oil level,162,1
+551,597,oil level incorrect,oil level low,162,1
+552,598,oil level incorrect,check oil level,162,1
+553,599,oil level low,transformer abnormal or reflash,163,1
+554,600,oil level low,transformer abnormal or reflash,163,1
+555,601,oil level incorrect,transformer abnormal or reflash,163,1
+556,602,oil level incorrect,transformer abnormal or reflash,163,1
+557,603,seal integrity defect,oil level low,164,1
+558,604,sight glass,oil level low,164,1
+559,605,gauge defect,oil level low,164,1
+560,606,transformer abnormal or reflash,investigate,165,1
+561,607,oil level low,transformer abnormal or reflash,165,1
+562,608,oil level low,investigate,165,1
+563,609,oil level incorrect,transformer abnormal or reflash,165,1
+564,610,oil level incorrect,investigate,165,1
+565,611,report oil level,investigate,166,1
+566,612,low oil alarm,investigate,166,1
+567,613,calibration,report oil level,166,1
+568,614,calibration,alarm,166,1
+569,615,calibration,investigate,166,1
+570,616,sight glass,report oil level,166,1
+571,617,sight glass,alarm,166,1
+572,618,sight glass,investigate,166,1
+573,619,gauge defect,report oil level,166,1
+574,620,gauge defect,alarm,166,1
+575,621,gauge defect,investigate,166,1
+576,622,damaged component,buchholz,167,1
+577,623,gasket,exchange terminal box cover,168,1
+578,624,seal integrity defect,exchange terminal box cover,168,1
+579,625,buchholz,exchange terminal box cover,168,1
+580,626,damaged component,drycol breather,169,1
+581,627,high resistance connection,transformer abnormal or reflash,170,1
+582,628,high resistance connection,transformer abnormal or reflash,170,1
+583,629,drycol breather,transformer abnormal or reflash,170,1
+584,630,drycol breather,transformer abnormal or reflash,170,1
+585,631,oil level low,transformer other,171,1
+586,632,oil level incorrect,transformer other,171,1
+587,634,oil level low,alarm,172,1
+588,635,oil level incorrect,alarm,172,1
+589,636,oil level low,reset,173,1
+590,637,oil level incorrect,reset,173,1
+591,638,mechanical indicator defect,sight glass,174,1
+592,639,mechanical indicator defect,gauge defect,174,1
+593,640,mechanical indicator defect,renew switch,174,1
+594,641,mechanical indicator defect,renew switch,174,1
+595,642,sight glass,renew switch,174,1
+596,643,gauge defect,renew switch,174,1
+597,644,mechanical indicator defect,sight glass,175,1
+598,645,mechanical indicator defect,gauge defect,175,1
+599,646,mechanical indicator defect,renew switch,175,1
+600,647,mechanical indicator defect,renew switch,175,1
+601,648,sight glass,renew switch,175,1
+602,649,gauge defect,renew switch,175,1
+603,650,high daytime temperatures,alarm,176,1
+604,651,high humidity,alarm,176,1
+605,652,drycol breather,alarm,176,1
+606,653,power supply,transformer abnormal or reflash,177,1
+607,654,power supply,transformer other,177,1
+608,655,power supply,transformer abnormal or reflash,177,1
+609,656,power supply,transformer other,177,1
+610,657,drycol control unit defect,transformer abnormal or reflash,177,1
+611,658,drycol control unit defect,transformer other,177,1
+612,659,power supply,drycol control unit defect,178,1
+613,660,power supply,drycol control unit defect,178,1
+614,661,damaged component,exchange,179,1
+615,662,drycol breather,exchange,179,1
+616,663,oil level low,transformer abnormal or reflash,180,1
+617,664,oil level incorrect,transformer abnormal or reflash,180,1
+618,666,oil level low,oil level incorrect,181,1
+619,668,oil level low,transformer abnormal or reflash,182,1
+620,669,oil level incorrect,transformer abnormal or reflash,182,1
+621,671,oil level low,oil level incorrect,183,1
+622,673,defrost defect,drycol control unit defect,184,1
+623,674,transformer abnormal or reflash,investigate,185,1
+624,675,transformer abnormal or reflash,investigate,185,1
+625,676,relay defect,transformer abnormal or reflash,185,1
+626,677,relay defect,transformer abnormal or reflash,185,1
+627,678,relay defect,investigate,185,1
+628,682,drycol control unit defect,transformer abnormal or reflash,185,1
+629,683,drycol control unit defect,transformer abnormal or reflash,185,1
+630,684,drycol control unit defect,investigate,185,1
+631,685,oil level low,buchholz alarm,186,1
+632,686,oil level low,buchholz alarm,186,1
+633,687,low temperatures,buchholz alarm,186,1
+634,689,oil level low,oil level incorrect,186,1
+635,690,oil level low,low temperatures,186,1
+636,691,oil level low,buchholz alarm,186,1
+637,692,oil level incorrect,oil level low,186,1
+638,694,oil level incorrect,low temperatures,186,1
+639,695,oil level incorrect,buchholz alarm,186,1
+640,696,oil level low,oil level low,186,1
+641,697,oil level low,oil level incorrect,186,1
+642,698,oil level low,low temperatures,186,1
+643,699,oil level low,buchholz alarm,186,1
+644,701,oil level low,oil level incorrect,187,1
+645,702,oil level low,add oil tank,187,1
+646,703,oil level low,add oil tank,187,1
+647,704,oil level incorrect,add oil tank,187,1
+648,705,damaged component,transformer abnormal or reflash,188,1
+649,707,pcb,transformer abnormal or reflash,189,1
+650,708,component failure,transformer abnormal or reflash,189,1
+651,709,drycol control unit defect,transformer abnormal or reflash,189,1
+652,710,defrost defect,transformer abnormal or reflash,190,1
+653,711,drycol control unit defect,transformer abnormal or reflash,190,1
+654,712,oil level low,add oil,191,1
+655,713,oil level incorrect,add oil,191,1
+656,715,oil level low,oil level incorrect,192,1
+657,716,oil level low,add oil,192,1
+658,717,oil level low,add oil,192,1
+659,718,oil level incorrect,add oil,192,1
+660,719,defrost defect,drycol control unit defect,193,1
+661,720,buchholz alarm,check oil level,194,1
+662,721,alarm operation,buchholz alarm,194,1
+663,722,alarm operation,check oil level,194,1
+664,725,buchholz,alarm,194,1
+665,726,buchholz,check oil level,194,1
+666,728,oil leak,add oil,195,1
+667,729,oil level low,oil leak,195,1
+668,730,oil level low,add oil,195,1
+669,731,oil level incorrect,oil leak,195,1
+670,732,oil level incorrect,add oil,195,1
+671,734,oil leak,add oil,195,1
+672,736,oil level low,add oil,196,1
+673,737,oil level low,correct level winter,196,1
+674,738,oil level incorrect,oil level low,196,1
+675,739,oil level incorrect,add oil,196,1
+676,740,oil level incorrect,correct level winter,196,1
+677,741,oil level low,buchholz alarm,197,1
+678,742,oil level incorrect,buchholz alarm,197,1
+679,743,oil level low,buchholz alarm,198,1
+680,744,oil level incorrect,buchholz alarm,198,1
+681,745,oil level low,add oil,199,1
+682,746,oil level incorrect,add oil,199,1
+683,747,damaged component,drycol breather,200,1
+684,748,drycol breather,drycol breather,200,1
+685,749,damaged component,transformer abnormal or reflash,201,1
+686,750,drycol breather,transformer abnormal or reflash,201,1
+687,751,damaged component,transformer abnormal or reflash,202,1
+688,752,drycol breather,transformer abnormal or reflash,202,1
+689,753,high resistance connection,transformer abnormal or reflash,203,1
+690,754,drycol breather,transformer abnormal or reflash,203,1
+691,756,oil level low,oil level incorrect,204,1
+692,757,oil level low,add oil,204,1
+693,758,oil level low,add oil,204,1
+694,759,oil level incorrect,add oil,204,1
+695,760,oil level low,buchholz alarm,205,1
+696,761,oil level incorrect,buchholz alarm,205,1
+697,762,damaged component,transformer abnormal or reflash,206,1
+698,763,drycol breather,transformer abnormal or reflash,206,1
+699,764,oil level low,add oil,207,1
+700,765,oil level incorrect,add oil,207,1
+701,766,calibration,transformer abnormal or reflash,208,1
+702,767,sight glass,transformer abnormal or reflash,208,1
+703,768,gauge defect,transformer abnormal or reflash,208,1
+704,769,oil level low,transformer abnormal or reflash,209,1
+705,770,oil level low,transformer abnormal or reflash,209,1
+706,771,oil level incorrect,transformer abnormal or reflash,209,1
+707,772,oil level incorrect,transformer abnormal or reflash,209,1
+708,774,oil level low,oil level incorrect,210,1
+709,775,transformer abnormal or reflash,oil level incorrect,211,1
+710,776,transformer abnormal or reflash,oil level incorrect,211,1
+711,777,oil level low,oil level incorrect,211,1
+712,778,oil level low,oil level incorrect,211,1
+713,779,ir,transformer abnormal or reflash,212,1
+714,780,ir,transformer abnormal or reflash,212,1
+715,781,power supply,transformer abnormal or reflash,214,1
+716,782,power supply,transformer abnormal or reflash,214,1
+717,783,drycol control unit defect,transformer abnormal or reflash,214,1
+718,785,oil level low,oil level incorrect,215,1
+719,787,oil level low,transformer abnormal or reflash,216,1
+720,788,oil level incorrect,transformer abnormal or reflash,216,1
+721,790,magnet or reed switch,buchholz,217,1
+722,791,magnet or reed switch,exchange buchholz unit,217,1
+723,792,magnet or reed switch,buchholz,217,1
+724,793,magnet or reed switch,exchange buchholz unit,217,1
+725,794,magnet or reed switch,exchange buchholz unit,217,1
+726,795,magnet or reed switch,exchange buchholz unit,217,1
+727,796,buchholz,exchange buchholz unit,217,1
+728,797,ir,transformer abnormal or reflash,218,1
+729,798,ir,transformer abnormal or reflash,218,1
+730,799,fuse or mcb,transformer abnormal or reflash,219,1
+731,800,fuse or mcb,transformer abnormal or reflash,219,1
+732,801,drycol control unit defect,transformer abnormal or reflash,219,1
+733,802,fuse or mcb,transformer abnormal or reflash,220,1
+734,803,fuse or mcb,transformer abnormal or reflash,220,1
+735,804,drycol control unit defect,transformer abnormal or reflash,220,1
+736,805,defrost defect,transformer abnormal or reflash,221,1
+737,806,drycol control unit defect,transformer abnormal or reflash,221,1
+738,807,oil level low,add oil,222,1
+739,808,oil level incorrect,add oil,222,1
+740,809,oil level low,oil leak,223,1
+741,810,oil level incorrect,oil leak,223,1
+742,811,oil level low,buchholz alarm,224,1
+743,812,oil level incorrect,buchholz alarm,224,1
+744,815,damaged component,transformer abnormal or reflash,226,1
+745,817,damaged component,transformer abnormal or reflash,227,1
+746,818,damaged component,drycol breather,227,1
+747,819,drycol breather,transformer abnormal or reflash,227,1
+748,820,drycol breather,drycol breather,227,1
+749,821,damaged component,investigate fault drycol,228,1
+750,822,damaged component,exchange component,228,1
+751,823,drycol breather,investigate fault drycol,228,1
+752,824,drycol breather,exchange component,228,1
+753,825,corrosion,buchholz alarm,229,1
+754,826,corrosion,buchholz alarm,229,1
+755,827,corrosion,buchholz alarm,229,1
+756,828,pipework defect,buchholz alarm,229,1
+757,830,oil level low,oil level incorrect,230,1
+758,831,oil level low,add oil,230,1
+759,832,oil level low,add oil,230,1
+760,833,oil level incorrect,add oil,230,1
+761,834,ir,transformer abnormal or reflash,231,1
+762,835,ir,transformer abnormal or reflash,231,1
+763,836,transformer abnormal or reflash,repair,232,1
+764,837,transformer abnormal or reflash,reset,232,1
+765,838,damaged component,transformer abnormal or reflash,232,1
+766,839,damaged component,repair,232,1
+767,840,damaged component,reset,232,1
+768,841,drycol control unit defect,transformer abnormal or reflash,232,1
+769,842,drycol control unit defect,repair,232,1
+770,843,drycol control unit defect,reset,232,1
+771,844,high resistance connection,transformer abnormal or reflash,233,1
+772,845,drycol breather,transformer abnormal or reflash,233,1
+773,846,dessicant abnormal,exchange dessicant,235,1
+774,848,dessicant abnormal,refill,236,1
+775,849,dessicant abnormal,order new cartridge,236,1
+776,852,dessicant abnormal,exchange dessicant,237,1
+777,855,oil level low,oil level incorrect,238,1
+778,857,damaged component,investegate drycol unit,239,1
+779,858,damaged component,exchange dessicant,239,1
+780,859,drycol breather,investegate drycol unit,239,1
+781,860,drycol breather,exchange dessicant,239,1
+782,861,gasket,transformer other,240,1
+783,862,seal integrity defect,transformer other,240,1
+784,863,gasket,oil leak,241,1
+785,864,gasket,tighten sight glass,241,1
+786,865,gasket,cure leak,241,1
+787,866,seal integrity defect,oil leak,241,1
+788,867,seal integrity defect,tighten sight glass,241,1
+789,868,seal integrity defect,cure leak,241,1
+790,869,gasket,tighten sight glass,241,1
+791,870,gasket,cure leak,241,1
+792,871,seal integrity defect,tighten sight glass,241,1
+793,872,seal integrity defect,cure leak,241,1
+794,873,oil leak,tighten sight glass,241,1
+795,874,oil leak,cure leak,241,1
+796,875,cracked sight glass,sight glass,242,1
+797,876,cracked sight glass,gauge defect,242,1
+798,877,cracked sight glass,make,242,1
+799,878,cracked sight glass,install sight glass,242,1
+800,880,sight glass,gauge defect,242,1
+801,881,sight glass,make,242,1
+802,882,sight glass,install sight glass,242,1
+803,883,cracked sight glass,sight glass,242,1
+804,884,cracked sight glass,make,242,1
+805,885,cracked sight glass,install sight glass,242,1
+806,887,sight glass,make,242,1
+807,888,sight glass,install sight glass,242,1
+808,889,gauge defect,sight glass,242,1
+809,890,gauge defect,make,242,1
+810,891,gauge defect,install sight glass,242,1
+811,892,high resistance connection,transformer abnormal or reflash,243,1
+812,893,drycol breather,transformer abnormal or reflash,243,1
+813,894,power supply,drycol control unit defect,244,1
+814,895,power supply,drycol control unit defect,244,1
+815,896,gasket,transformer abnormal or reflash,245,1
+816,897,seal integrity defect,transformer abnormal or reflash,245,1
+817,898,drycol breather,transformer abnormal or reflash,245,1
+818,899,power supply,drycol alarm,246,1
+819,900,power supply,drycol alarm,246,1
+820,901,drycol control unit defect,drycol alarm,246,1
+821,902,damaged component,transformer abnormal or reflash,247,1
+822,904,damaged component,transformer abnormal or reflash,248,1
+823,906,power supply,transformer abnormal or reflash,249,1
+824,907,power supply,transformer abnormal or reflash,249,1
+825,908,drycol control unit defect,transformer abnormal or reflash,249,1
+826,909,power supply,drycol breather,250,1
+827,910,power supply,drycol breather,250,1
+828,911,drycol control unit defect,drycol breather,250,1
+829,912,damaged component,transformer abnormal or reflash,251,1
+830,913,drycol breather,transformer abnormal or reflash,251,1
+831,914,ir,exchange drycol unit,252,1
+832,915,ir,exchange drycol unit,252,1
+833,916,damaged component,transformer abnormal or reflash,253,1
+834,917,drycol breather,transformer abnormal or reflash,253,1
+835,918,power supply,drycol alarm,254,1
+836,919,power supply,drycol alarm,254,1
+837,920,drycol control unit defect,drycol alarm,254,1
+838,921,damaged component,transformer abnormal or reflash,255,1
+839,922,drycol breather,transformer abnormal or reflash,255,1
+840,923,power supply,transformer abnormal or reflash,256,1
+841,924,power supply,drycol breather,256,1
+842,925,power supply,transformer abnormal or reflash,256,1
+843,926,power supply,drycol breather,256,1
+844,927,drycol control unit defect,transformer abnormal or reflash,256,1
+845,928,drycol control unit defect,drycol breather,256,1
+846,929,oil level low,buchholz alarm,257,1
+847,930,oil level incorrect,buchholz alarm,257,1
+848,931,damaged component,transformer other,258,1
+849,932,damaged component,transformer abnormal or reflash,259,1
+850,933,damaged component,transformer abnormal or reflash,259,1
+851,934,drycol breather,transformer abnormal or reflash,259,1
+852,935,drycol breather,transformer abnormal or reflash,259,1
+853,936,power supply,transformer abnormal or reflash,260,1
+854,937,power supply,drycol breather,260,1
+855,938,power supply,transformer abnormal or reflash,260,1
+856,939,power supply,drycol breather,260,1
+857,940,drycol control unit defect,transformer abnormal or reflash,260,1
+858,941,drycol control unit defect,drycol breather,260,1
+859,942,ir,ir,261,1
+860,943,ir,exchange drycol breather,261,1
+861,944,ir,test,261,1
+862,945,ir,exchange drycol breather,261,1
+863,946,ir,test,261,1
+864,947,ir,exchange drycol breather,261,1
+865,948,ir,test,261,1
+866,949,damaged component,drycol breather,262,1
+867,950,dessicant abnormal,transformer abnormal or reflash,263,1
+868,952,high resistance connection,drycol breather,264,1
+869,953,damaged component,control box,265,1
+870,954,fuse or mcb,transformer abnormal or reflash,266,1
+871,955,fuse or mcb,transformer abnormal or reflash,266,1
+872,956,drycol control unit defect,transformer abnormal or reflash,266,1
+873,957,damaged component,transformer abnormal or reflash,267,1
+874,959,damaged component,exchange drycol unit,268,1
+875,960,damaged component,verify operational control box,268,1
+876,961,drycol breather,exchange drycol unit,268,1
+877,962,drycol breather,verify operational control box,268,1
+878,964,seal integrity defect,transformer abnormal or reflash,270,1
+879,965,bag defect,transformer abnormal or reflash,270,1
+880,966,damaged component,oil level low,271,1
+881,968,seal integrity defect,transformer abnormal or reflash,272,1
+882,969,sight glass,transformer abnormal or reflash,272,1
+883,970,gauge defect,transformer abnormal or reflash,272,1
+884,971,loose fixing,transformer abnormal or reflash,273,1
+885,972,auto recharge control defect,transformer abnormal or reflash,273,1
+886,973,damaged component,transformer abnormal or reflash,274,1
+887,974,drycol breather,transformer abnormal or reflash,274,1
+888,975,power supply,transformer abnormal or reflash,275,1
+889,976,power supply,transformer abnormal or reflash,275,1
+890,977,drycol control unit defect,transformer abnormal or reflash,275,1
+891,978,power supply,drycol breather,276,1
+892,979,power supply,drycol breather,276,1
+893,980,drycol control unit defect,drycol breather,276,1
+894,981,power supply,drycol breather,277,1
+895,982,power supply,drycol breather,277,1
+896,983,drycol control unit defect,drycol breather,277,1
+897,984,damaged component,transformer abnormal or reflash,278,1
+898,986,defrost defect,drycol breather,279,1
+899,987,drycol control unit defect,drycol breather,279,1
+900,988,high resistance connection,drycol breather,280,1
+901,989,drycol control unit defect,drycol breather,280,1
+902,990,power supply,drycol breather,281,1
+903,991,power supply,drycol breather,281,1
+904,992,drycol control unit defect,drycol breather,281,1
+905,993,oil level low,add oil,282,1
+906,994,oil level incorrect,add oil,282,1
+907,995,power supply,transformer abnormal or reflash,283,1
+908,996,power supply,transformer abnormal or reflash,283,1
+909,997,drycol control unit defect,transformer abnormal or reflash,283,1
+910,998,oil level low,order,284,1
+911,999,oil level low,exchange oil,284,1
+912,1000,oil level incorrect,order,284,1
+913,1001,oil level incorrect,exchange oil,284,1
+914,1002,transformer abnormal or reflash,order,284,1
+915,1003,transformer abnormal or reflash,exchange oil,284,1
+916,1004,out of service,order,284,1
+917,1005,out of service,exchange oil,284,1
+918,1006,damaged component,alarm,285,1
+919,1007,drycol breather,alarm,285,1
+920,1008,high resistance connection,transformer abnormal or reflash,286,1
+921,1009,drycol control unit defect,transformer abnormal or reflash,286,1
+922,1010,power supply,drycol breather,287,1
+923,1011,power supply,drycol breather,287,1
+924,1012,drycol control unit defect,drycol breather,287,1
+925,1013,ir,transformer abnormal or reflash,288,1
+926,1014,ir,transformer abnormal or reflash,288,1
+927,1015,power supply,drycol breather,289,1
+928,1016,power supply,drycol breather,289,1
+929,1017,drycol control unit defect,drycol breather,289,1
+930,1018,bag defect,transformer abnormal or reflash,290,1
+931,1019,bag defect,transformer abnormal or reflash,290,1
+932,1020,gasket,bag defect,291,1
+933,1021,seal integrity defect,bag defect,291,1
+934,1022,power supply,transformer abnormal or reflash,292,1
+935,1023,power supply,transformer abnormal or reflash,292,1
+936,1024,drycol control unit defect,transformer abnormal or reflash,292,1
+937,1026,damaged component,exchange drycol unit,293,1
+938,1027,damaged component,exchange drycol unit,293,1
+939,1030,oil level low,low oil alarm,294,1
+940,1032,oil level incorrect,low oil alarm,294,1
+941,1035,alarm operation,buchholz,295,1
+942,1037,damaged component,drycol breather,296,1
+943,1039,oil level low,transformer abnormal or reflash,297,1
+944,1040,oil level incorrect,transformer abnormal or reflash,297,1
+945,1041,damaged component,transformer abnormal or reflash,298,1
+946,1042,tank defect,transformer abnormal or reflash,298,1
+947,1043,loose fixing,oil level low,299,1
+948,1044,sight glass,oil level low,299,1
+949,1045,gauge defect,oil level low,299,1
+950,1046,fuse or mcb,drycol breather,300,1
+951,1047,fuse or mcb,drycol breather,300,1
+952,1048,drycol control unit defect,drycol breather,300,1
+953,1049,fuse or mcb,transformer abnormal or reflash,301,1
+954,1050,fuse or mcb,transformer abnormal or reflash,301,1
+955,1051,drycol control unit defect,transformer abnormal or reflash,301,1
+956,1052,auxiliary defect,transformer abnormal or reflash,302,1
+957,1053,relay defect,transformer abnormal or reflash,302,1
+958,1054,drycol control unit defect,transformer abnormal or reflash,302,1
+959,1055,fuse or mcb,transformer abnormal or reflash,303,1
+960,1056,fuse or mcb,transformer abnormal or reflash,303,1
+961,1057,drycol control unit defect,transformer abnormal or reflash,303,1
+962,1058,fuse or mcb,drycol breather,304,1
+963,1059,fuse or mcb,drycol breather,304,1
+964,1060,drycol control unit defect,drycol breather,304,1
+965,1061,damaged component,transformer abnormal or reflash,305,1
+966,1062,oil leak,transformer abnormal or reflash,305,1
+967,1063,damaged component,exchange tank oil level low,306,1
+968,1064,sight glass,exchange tank oil level low,306,1
+969,1065,gauge defect,exchange tank oil level low,306,1
+970,1066,oil level low,transformer abnormal or reflash,307,1
+971,1067,oil level low,transformer abnormal or reflash,307,1
+972,1068,oil level incorrect,transformer abnormal or reflash,307,1
+973,1069,oil level incorrect,transformer abnormal or reflash,307,1
+974,1070,oil level low,transformer abnormal or reflash,308,1
+975,1071,oil level incorrect,transformer abnormal or reflash,308,1
+976,1073,oil level low,oil level incorrect,309,1
+977,1074,oil level low,add oil,309,1
+978,1075,oil level low,add oil,309,1
+979,1076,oil level incorrect,add oil,309,1
+980,1077,seal integrity defect,sight glass,310,1
+981,1078,seal integrity defect,clean sight glass,310,1
+982,1080,sight glass,clean sight glass,310,1
+983,1081,gauge defect,sight glass,310,1
+984,1082,gauge defect,clean sight glass,310,1
+985,1083,damaged component,transformer abnormal or reflash,311,1
+986,1084,damaged component,drycol control unit defect,311,1
+987,1085,drycol breather,transformer abnormal or reflash,311,1
+988,1086,drycol breather,drycol control unit defect,311,1
+989,1087,terminal cover,buchholz,312,1
+990,1088,terminal cover,buchholz,312,1
+991,1089,oil level low,oil level low,313,1
+992,1090,oil level incorrect,oil level low,313,1
+993,1091,oil level low,transformer abnormal or reflash,314,1
+994,1092,oil level incorrect,transformer abnormal or reflash,314,1
+995,1093,damaged component,transformer abnormal or reflash,315,1
+996,1094,damaged component,drycol control unit defect,315,1
+997,1095,drycol breather,transformer abnormal or reflash,315,1
+998,1096,drycol breather,drycol control unit defect,315,1
+999,1097,damaged component,drycol breather,316,1
+1000,1098,power supply,transformer abnormal or reflash,317,1
+1001,1099,power supply,transformer abnormal or reflash,317,1
+1002,1100,drycol control unit defect,transformer abnormal or reflash,317,1
+1003,1101,drycol control unit defect,transformer abnormal or reflash,318,1
+1004,1102,drycol control unit defect,transformer abnormal or reflash,318,1
+1005,1103,damaged component,drycol breather,319,1
+1006,1104,oil level low,low oil alarm,320,1
+1007,1105,oil level incorrect,low oil alarm,320,1
+1008,1106,damaged component,sight glass,321,1
+1009,1107,damaged component,gauge defect,321,1
+1010,1108,power supply,transformer abnormal or reflash,322,1
+1011,1109,power supply,transformer abnormal or reflash,322,1
+1012,1110,drycol control unit defect,transformer abnormal or reflash,322,1
+1013,1112,power supply,order,323,1
+1014,1114,power supply,order,323,1
+1015,1115,drycol control unit defect,power supply,323,1
+1016,1116,drycol control unit defect,order,323,1
